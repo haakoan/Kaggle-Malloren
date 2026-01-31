@@ -6,7 +6,7 @@ This project focuses on identifying **tidal disruption events (TDEs)** from mult
 TDEs are rare transients produced when stars are disrupted by supermassive black holes and are observationally difficult to distinguish from supernovae and AGN using photometry alone.
 
 The main challenge is not detecting variability, but **discriminating TDEs from more common transients** under strong class imbalance, irregular cadence, and incomplete spectral information.
-
+<img src="assets/figures/gp_lightcurve_example.png" width="600">
 ---
 
 ## Approach
