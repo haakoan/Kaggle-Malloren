@@ -7,8 +7,8 @@ TDEs are rare transients produced when stars are disrupted by supermassive black
 
 The main challenge is not detecting variability, but **discriminating TDEs from more common transients** under strong class imbalance, irregular cadence, and incomplete spectral information.
 
-<img src="tde_lightcurve_flux.png" width="1600">
----
+<img src="tde_lightcurve_flux.png" width="1200">
+
 
 ## Approach
 
