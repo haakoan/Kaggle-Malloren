@@ -1,12 +1,12 @@
 # MALLORN TDE Classification
-
+https://www.kaggle.com/competitions/mallorn-astronomical-classification-challenge
 ## Overview
 
 This project focuses on identifying **tidal disruption events (TDEs)** from multiband photometric light curves in the MALLORN (LSST-style) Kaggle competition. 
 TDEs are rare transients produced when stars are disrupted by supermassive black holes and are observationally difficult to distinguish from supernovae and AGN using photometry alone.
 
 The main challenge is not detecting variability, but **discriminating TDEs from more common transients** under strong class imbalance, irregular cadence, and incomplete spectral information.
-<img src="assets/figures/gp_lightcurve_example.png" width="600">
+<img src="tde_lightcurve_flux" width="600">
 ---
 
 ## Approach
