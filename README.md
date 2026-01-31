@@ -71,7 +71,7 @@ For each object, I fit independent GPs to the light curves in individual photome
 These fits produce smooth, continuous representations of the underlying flux evolution that can be evaluated on a common time grid.
 
 Following this, I constructed a pseudo-bolometric light curve by summing the GP-predicted flux across bands. 
-This allows physically motivated quantities—such as peak brightness, decay slopes, and time spent above a given fraction of peak flux—to be defined consistently even when observations are incomplete or unevenly sampled.
+This allows physically motivated quantities, such as peak brightness, decay slopes, and time spent above a given fraction of peak flux, to be defined consistently even when observations are incomplete or unevenly sampled.
 
 All time-based features were computed in the **rest frame**, aligning events relative to their inferred peak and correcting for cosmological time dilation using redshift information. 
 This ensures that decay rates and timescales are comparable across objects at different distances.
